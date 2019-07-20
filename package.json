@@ -1,10 +1,10 @@
 {
   "name": "taglib2",
-  "version": "2.9.6",
+  "version": "2.9.7",
   "description": "taglib version2 bindings",
   "repository": {
     "type": "git",
-    "url": "git@github.com:voltraco/node-taglib2.git"
+    "url": "git@github.com:icoretech/node-taglib2.git"
   },
   "scripts": {
     "test": "tape tests",
@@ -12,14 +12,14 @@
     "rebuild": "node build.js"
   },
   "dependencies": {
-    "cmake-js": "^3.5.0",
-    "cross-spawn": "^5.1.0",
-    "nan": "^2.4.0",
-    "npm-run-path": "^2.0.2"
+    "cmake-js": "^5.3.1",
+    "cross-spawn": "^6.0.5",
+    "nan": "^2.14.0",
+    "npm-run-path": "^3.1.0"
   },
   "devDependencies": {
     "mkdirp": "^0.5.1",
-    "rimraf": "^2.5.2",
-    "tape": "*"
+    "rimraf": "^2.6.3",
+    "tape": "^4.11.0"
   }
 }
