@@ -4,7 +4,7 @@ project (taglib2)
 #
 # a relatively stable snapshot of taglib2 branch for our purposes.
 #
-set(REVISION "a64772a832fb0f4ce1981f31a882d6974ec61ea5")
+set(REVISION "ba7adc2bc261ed634c2a964185bcffb9365ad2f4")
 
 #
 # import ExternalProject module
